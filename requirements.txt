@@ -1,5 +1,4 @@
 streamlit>=1.38.0
-qiskit>=1.2.0
 numpy>=2.1.0
 matplotlib>=3.9.0
 networkx>=3.3
